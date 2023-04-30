@@ -1,0 +1,12 @@
+untuk memberi tahu komputer dalam mengabikan perintah yang ditulis  digunakan instruksi "comments".
+sebuah  komentar akan dilewatkan oler interpreter sehingga tidak mempengaruhi alur program yang ditulis.
+terdapat dua metode untuk memberi komentar, yaitu:
+1. memberi komentar satu baris saja, menggunakan tanda dua garis miring (//) di awal baris.
+contoh:
+// ini adalah komentar satu baris.
+
+
+2. memberikan komentar lebih dari satu baris menggunakan tanda /* sebgai pembuka komentar dan tanda */ untuk penutup komentar
+contoh:
+/* ini adalah komentar dengan lebih dari 
+satu baris */
